@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "C100__by_the_way.mp3",
+    "info": "C100__by_the_way section"
+  },
+  {
+    "id": "C101__go_back_(to_～).mp3",
+    "info": "C101__go_back_(to_～) section"
+  },
+  {
+    "id": "C102__come_true.mp3",
+    "info": "C102__come_true section"
+  },
+  {
+    "id": "C103__get_away_(from_～).mp3",
+    "info": "C103__get_away_(from_～) section"
+  },
+  {
+    "id": "C104__get_home.mp3",
+    "info": "C104__get_home section"
+  },
+  {
+    "id": "C105__get_off_(～).mp3",
+    "info": "C105__get_off_(～) section"
+  },
+  {
+    "id": "C106__get_on_(～).mp3",
+    "info": "C106__get_on_(～) section"
+  },
+  {
+    "id": "C107__fall_asleep.mp3",
+    "info": "C107__fall_asleep section"
+  },
+  {
+    "id": "C108__get_tired.mp3",
+    "info": "C108__get_tired section"
+  },
+  {
+    "id": "C109__get_well.mp3",
+    "info": "C109__get_well section"
+  },
+  {
+    "id": "C10__do_one's_homework.mp3",
+    "info": "C10__do_one's_homework section"
+  },
+  {
+    "id": "C110__cheer_up.mp3",
+    "info": "C110__cheer_up section"
+  },
+  {
+    "id": "C111__grow_up.mp3",
+    "info": "C111__grow_up section"
+  },
+  {
+    "id": "C112__hurry_up.mp3",
+    "info": "C112__hurry_up section"
+  },
+  {
+    "id": "C113__hold_hands.mp3",
+    "info": "C113__hold_hands section"
+  },
+  {
+    "id": "C114__take_a_picture.mp3",
+    "info": "C114__take_a_picture section"
+  },
+  {
+    "id": "C115__take_a_shower.mp3",
+    "info": "C115__take_a_shower section"
+  },
+  {
+    "id": "C116__take_a_walk.mp3",
+    "info": "C116__take_a_walk section"
+  },
+  {
+    "id": "C117__take_action.mp3",
+    "info": "C117__take_action section"
+  },
+  {
+    "id": "C118__go_on_a_trip.mp3",
+    "info": "C118__go_on_a_trip section"
+  },
+  {
+    "id": "C119__take_care.mp3",
+    "info": "C119__take_care section"
+  },
+  {
+    "id": "C11__fall_down.mp3",
+    "info": "C11__fall_down section"
+  },
+  {
+    "id": "C120__cut_～_off.mp3",
+    "info": "C120__cut_～_off section"
+  },
+  {
+    "id": "C121__touch_one's_heart.mp3",
+    "info": "C121__touch_one's_heart section"
+  },
+  {
+    "id": "C122__get_to_～.mp3",
+    "info": "C122__get_to_～ section"
+  },
+  {
+    "id": "C123__go_into_～.mp3",
+    "info": "C123__go_into_～ section"
+  },
+  {
+    "id": "C124__leave_(～)_for_....mp3",
+    "info": "C124__leave_(～)_for_ section"
+  },
+  {
+    "id": "C125__arrive_at_～.mp3",
+    "info": "C125__arrive_at_～ section"
+  },
+  {
+    "id": "C126__walk_to_～.mp3",
+    "info": "C126__walk_to_～ section"
+  },
+  {
+    "id": "C127__stick_to_～.mp3",
+    "info": "C127__stick_to_～ section"
+  },
+  {
+    "id": "C128__belong_to_～.mp3",
+    "info": "C128__belong_to_～ section"
+  },
+  {
+    "id": "C129__depend_on_～.mp3",
+    "info": "C129__depend_on_～ section"
+  },
+  {
+    "id": "C12__get_up.mp3",
+    "info": "C12__get_up section"
+  },
+  {
+    "id": "C130__ask_for_～.mp3",
+    "info": "C130__ask_for_～ section"
+  },
+  {
+    "id": "C131__prepare_for_～.mp3",
+    "info": "C131__prepare_for_～ section"
+  },
+  {
+    "id": "C132__hope_for_～.mp3",
+    "info": "C132__hope_for_～ section"
+  },
+  {
+    "id": "C133__pray_for_～.mp3",
+    "info": "C133__pray_for_～ section"
+  },
+  {
+    "id": "C134__hear_of_～.mp3",
+    "info": "C134__hear_of_～ section"
+  },
+  {
+    "id": "C135__know_about_～.mp3",
+    "info": "C135__know_about_～ section"
+  },
+  {
+    "id": "C136__think_of_[about]_～.mp3",
+    "info": "C136__think_of_[about]_～ section"
+  },
+  {
+    "id": "C137__begin_with_～.mp3",
+    "info": "C137__begin_with_～ section"
+  },
+  {
+    "id": "C138__fight_against_～.mp3",
+    "info": "C138__fight_against_～ section"
+  },
+  {
+    "id": "C139__help_～_with_....mp3",
+    "info": "C139__help_～_with_ section"
+  },
+  {
+    "id": "C13__wake_up_(～).mp3",
+    "info": "C13__wake_up_(～) section"
+  },
+  {
+    "id": "C140__remind_～_of_....mp3",
+    "info": "C140__remind_～_of_ section"
+  },
+  {
+    "id": "C141__want_～_to_....mp3",
+    "info": "C141__want_～_to_ section"
+  },
+  {
+    "id": "C142__turn_～_on.mp3",
+    "info": "C142__turn_～_on section"
+  },
+  {
+    "id": "C143__set_～_up.mp3",
+    "info": "C143__set_～_up section"
+  },
+  {
+    "id": "C144__call_～_back.mp3",
+    "info": "C144__call_～_back section"
+  },
+  {
+    "id": "C145__check_～_out.mp3",
+    "info": "C145__check_～_out section"
+  },
+  {
+    "id": "C146__fall_in_love_with_～.mp3",
+    "info": "C146__fall_in_love_with_～ section"
+  },
+  {
+    "id": "C147__go_well_with_～.mp3",
+    "info": "C147__go_well_with_～ section"
+  },
+  {
+    "id": "C148__be_different_from_～.mp3",
+    "info": "C148__be_different_from_～ section"
+  },
+  {
+    "id": "C149__be_known_for_～.mp3",
+    "info": "C149__be_known_for_～ section"
+  },
+  {
+    "id": "C14__run_away.mp3",
+    "info": "C14__run_away section"
+  },
+  {
+    "id": "C150__be_proud_of_～.mp3",
+    "info": "C150__be_proud_of_～ section"
+  },
+  {
+    "id": "C151__be_scared_of_～.mp3",
+    "info": "C151__be_scared_of_～ section"
+  },
+  {
+    "id": "C152__be_glad_[happy]_to_～.mp3",
+    "info": "C152__be_glad_[happy]_to_～ section"
+  },
+  {
+    "id": "C153__be_ready_to_～.mp3",
+    "info": "C153__be_ready_to_～ section"
+  },
+  {
+    "id": "C154__be_sure_(that)_～.mp3",
+    "info": "C154__be_sure_(that)_～ section"
+  },
+  {
+    "id": "C155__a_set_of_～.mp3",
+    "info": "C155__a_set_of_～ section"
+  },
+  {
+    "id": "C156__a_member_of_～.mp3",
+    "info": "C156__a_member_of_～ section"
+  },
+  {
+    "id": "C157__the_key_to_～.mp3",
+    "info": "C157__the_key_to_～ section"
+  },
+  {
+    "id": "C158__in_the_morning.mp3",
+    "info": "C158__in_the_morning section"
+  },
+  {
+    "id": "C159__last_week.mp3",
+    "info": "C159__last_week section"
+  },
+  {
+    "id": "C15__stand_up.mp3",
+    "info": "C15__stand_up section"
+  },
+  {
+    "id": "C160__at_that_[the]_time.mp3",
+    "info": "C160__at_that_[the]_time section"
+  },
+  {
+    "id": "C161__at_the_same_time.mp3",
+    "info": "C161__at_the_same_time section"
+  },
+  {
+    "id": "C162__next_time.mp3",
+    "info": "C162__next_time section"
+  },
+  {
+    "id": "C163__many_times.mp3",
+    "info": "C163__many_times section"
+  },
+  {
+    "id": "C164__the_other_day.mp3",
+    "info": "C164__the_other_day section"
+  },
+  {
+    "id": "C165__some_day.mp3",
+    "info": "C165__some_day section"
+  },
+  {
+    "id": "C166__all_over_～.mp3",
+    "info": "C166__all_over_～ section"
+  },
+  {
+    "id": "C167__on_the_[one's]_way_(to_～).mp3",
+    "info": "C167__on_the_[one's]_way_(to_～) section"
+  },
+  {
+    "id": "C168__from_abroad.mp3",
+    "info": "C168__from_abroad section"
+  },
+  {
+    "id": "C169__far_away.mp3",
+    "info": "C169__far_away section"
+  },
+  {
+    "id": "C16__have_a_～_time.mp3",
+    "info": "C16__have_a_～_time section"
+  },
+  {
+    "id": "C170__in_line.mp3",
+    "info": "C170__in_line section"
+  },
+  {
+    "id": "C171__～_and_so_on.mp3",
+    "info": "C171__～_and_so_on section"
+  },
+  {
+    "id": "C172__first_of_all.mp3",
+    "info": "C172__first_of_all section"
+  },
+  {
+    "id": "C173__as_a_result.mp3",
+    "info": "C173__as_a_result section"
+  },
+  {
+    "id": "C174__in_any_case.mp3",
+    "info": "C174__in_any_case section"
+  },
+  {
+    "id": "C175__in_need.mp3",
+    "info": "C175__in_need section"
+  },
+  {
+    "id": "C176__in_peace.mp3",
+    "info": "C176__in_peace section"
+  },
+  {
+    "id": "C177__more_and_more.mp3",
+    "info": "C177__more_and_more section"
+  },
+  {
+    "id": "C178__not_very_～.mp3",
+    "info": "C178__not_very_～ section"
+  },
+  {
+    "id": "C179__some_more.mp3",
+    "info": "C179__some_more section"
+  },
+  {
+    "id": "C17__have_fun.mp3",
+    "info": "C17__have_fun section"
+  },
+  {
+    "id": "C180__some_of_～.mp3",
+    "info": "C180__some_of_～ section"
+  },
+  {
+    "id": "C181__sit_down.mp3",
+    "info": "C181__sit_down section"
+  },
+  {
+    "id": "C182__sound_like_～.mp3",
+    "info": "C182__sound_like_～ section"
+  },
+  {
+    "id": "C183__upside_down.mp3",
+    "info": "C183__upside_down section"
+  },
+  {
+    "id": "C184__in_the_middle_of_～.mp3",
+    "info": "C184__in_the_middle_of_～ section"
+  },
+  {
+    "id": "C185__instead_of_～.mp3",
+    "info": "C185__instead_of_～ section"
+  },
+  {
+    "id": "C186__decide_to_～.mp3",
+    "info": "C186__decide_to_～ section"
+  },
+  {
+    "id": "C187__learn_to_～.mp3",
+    "info": "C187__learn_to_～ section"
+  },
+  {
+    "id": "C188__need_to_～.mp3",
+    "info": "C188__need_to_～ section"
+  },
+  {
+    "id": "C189__start_to_～_[～ing].mp3",
+    "info": "C189__start_to_～_[～ing] section"
+  },
+  {
+    "id": "C18__find_out_(～).mp3",
+    "info": "C18__find_out_(～) section"
+  },
+  {
+    "id": "C190__stop_～ing.mp3",
+    "info": "C190__stop_～ing section"
+  },
+  {
+    "id": "C191__keep_(on)_～ing.mp3",
+    "info": "C191__keep_(on)_～ing section"
+  },
+  {
+    "id": "C192__had_better_～.mp3",
+    "info": "C192__had_better_～ section"
+  },
+  {
+    "id": "C193__as_～_as_possible.mp3",
+    "info": "C193__as_～_as_possible section"
+  },
+  {
+    "id": "C194__not_～_but_....mp3",
+    "info": "C194__not_～_but_ section"
+  },
+  {
+    "id": "C195__so_～_that_....mp3",
+    "info": "C195__so_～_that_ section"
+  },
+  {
+    "id": "C196__some_～,_other(s)_....mp3",
+    "info": "C196__some_～,_other(s)_ section"
+  },
+  {
+    "id": "C197__be_going_to_～.mp3",
+    "info": "C197__be_going_to_～ section"
+  },
+  {
+    "id": "C198__too_～_(for_A)_to_....mp3",
+    "info": "C198__too_～_(for_A)_to_ section"
+  },
+  {
+    "id": "C199__how_to_～.mp3",
+    "info": "C199__how_to_～ section"
+  },
+  {
+    "id": "C19__take_a_bath.mp3",
+    "info": "C19__take_a_bath section"
+  },
+  {
+    "id": "C1__go_home.mp3",
+    "info": "C1__go_home section"
+  },
+  {
+    "id": "C200__as_～_as_....mp3",
+    "info": "C200__as_～_as_ section"
+  },
+  {
+    "id": "C201__go_away.mp3",
+    "info": "C201__go_away section"
+  },
+  {
+    "id": "C202__go_by.mp3",
+    "info": "C202__go_by section"
+  },
+  {
+    "id": "C203__walk_around.mp3",
+    "info": "C203__walk_around section"
+  },
+  {
+    "id": "C204__for_a_long_time.mp3",
+    "info": "C204__for_a_long_time section"
+  },
+  {
+    "id": "C205__eat_out.mp3",
+    "info": "C205__eat_out section"
+  },
+  {
+    "id": "C206__keep_a_diary.mp3",
+    "info": "C206__keep_a_diary section"
+  },
+  {
+    "id": "C207__keep_in_touch_(with_～).mp3",
+    "info": "C207__keep_in_touch_(with_～) section"
+  },
+  {
+    "id": "C208__make_[give]_a_speech.mp3",
+    "info": "C208__make_[give]_a_speech section"
+  },
+  {
+    "id": "C209__make_a_decision.mp3",
+    "info": "C209__make_a_decision section"
+  },
+  {
+    "id": "C20__come_from_～.mp3",
+    "info": "C20__come_from_～ section"
+  },
+  {
+    "id": "C210__change_trains.mp3",
+    "info": "C210__change_trains section"
+  },
+  {
+    "id": "C211__do_well.mp3",
+    "info": "C211__do_well section"
+  },
+  {
+    "id": "C212__take_it_easy.mp3",
+    "info": "C212__take_it_easy section"
+  },
+  {
+    "id": "C213__get_excited.mp3",
+    "info": "C213__get_excited section"
+  },
+  {
+    "id": "C214__get_angry_(at_～).mp3",
+    "info": "C214__get_angry_(at_～) section"
+  },
+  {
+    "id": "C215__get_ready_(for_～).mp3",
+    "info": "C215__get_ready_(for_～) section"
+  },
+  {
+    "id": "C216__give_up_(～).mp3",
+    "info": "C216__give_up_(～) section"
+  },
+  {
+    "id": "C217__catch_a_cold.mp3",
+    "info": "C217__catch_a_cold section"
+  },
+  {
+    "id": "C218__have_a_cold.mp3",
+    "info": "C218__have_a_cold section"
+  },
+  {
+    "id": "C219__have_a_fever.mp3",
+    "info": "C219__have_a_fever section"
+  },
+  {
+    "id": "C21__listen_to_～.mp3",
+    "info": "C21__listen_to_～ section"
+  },
+  {
+    "id": "C220__have_a_sore_throat.mp3",
+    "info": "C220__have_a_sore_throat section"
+  },
+  {
+    "id": "C221__hold_on.mp3",
+    "info": "C221__hold_on section"
+  },
+  {
+    "id": "C222__live_on.mp3",
+    "info": "C222__live_on section"
+  },
+  {
+    "id": "C223__stay_up.mp3",
+    "info": "C223__stay_up section"
+  },
+  {
+    "id": "C224__turn_into_～.mp3",
+    "info": "C224__turn_into_～ section"
+  },
+  {
+    "id": "C225__change_into_～.mp3",
+    "info": "C225__change_into_～ section"
+  },
+  {
+    "id": "C226__hear_about_～.mp3",
+    "info": "C226__hear_about_～ section"
+  },
+  {
+    "id": "C227__talk_to_[with]_～.mp3",
+    "info": "C227__talk_to_[with]_～ section"
+  },
+  {
+    "id": "C228__look_after_～.mp3",
+    "info": "C228__look_after_～ section"
+  },
+  {
+    "id": "C229__deal_with_～.mp3",
+    "info": "C229__deal_with_～ section"
+  },
+  {
+    "id": "C22__wait_for_～.mp3",
+    "info": "C22__wait_for_～ section"
+  },
+  {
+    "id": "C230__focus_on_～.mp3",
+    "info": "C230__focus_on_～ section"
+  },
+  {
+    "id": "C231__happen_to_～.mp3",
+    "info": "C231__happen_to_～ section"
+  },
+  {
+    "id": "C232__suffer_from_～.mp3",
+    "info": "C232__suffer_from_～ section"
+  },
+  {
+    "id": "C233__watch_over_～.mp3",
+    "info": "C233__watch_over_～ section"
+  },
+  {
+    "id": "C234__pass_～_on_(to_...).mp3",
+    "info": "C234__pass_～_on_(to_ section"
+  },
+  {
+    "id": "C235__take_～_to_....mp3",
+    "info": "C235__take_～_to_ section"
+  },
+  {
+    "id": "C236__take_～_away.mp3",
+    "info": "C236__take_～_away section"
+  },
+  {
+    "id": "C237__tell_～_to_....mp3",
+    "info": "C237__tell_～_to_ section"
+  },
+  {
+    "id": "C238__turn_～_in.mp3",
+    "info": "C238__turn_～_in section"
+  },
+  {
+    "id": "C239__name_～_after_....mp3",
+    "info": "C239__name_～_after_ section"
+  },
+  {
+    "id": "C23__live_in_～.mp3",
+    "info": "C23__live_in_～ section"
+  },
+  {
+    "id": "C240__figure_～_out.mp3",
+    "info": "C240__figure_～_out section"
+  },
+  {
+    "id": "C241__take_part_in_～.mp3",
+    "info": "C241__take_part_in_～ section"
+  },
+  {
+    "id": "C242__take_a_look_(at_～).mp3",
+    "info": "C242__take_a_look_(at_～) section"
+  },
+  {
+    "id": "C243__get_caught_in_～.mp3",
+    "info": "C243__get_caught_in_～ section"
+  },
+  {
+    "id": "C244__run_out_of_～.mp3",
+    "info": "C244__run_out_of_～ section"
+  },
+  {
+    "id": "C245__be_late_for_～.mp3",
+    "info": "C245__be_late_for_～ section"
+  },
+  {
+    "id": "C246__be_ready_for_～.mp3",
+    "info": "C246__be_ready_for_～ section"
+  },
+  {
+    "id": "C247__be_pleased_with_～.mp3",
+    "info": "C247__be_pleased_with_～ section"
+  },
+  {
+    "id": "C248__be_popular_with_[among]_～.mp3",
+    "info": "C248__be_popular_with_[among]_～ section"
+  },
+  {
+    "id": "C249__be_crowded_with_～.mp3",
+    "info": "C249__be_crowded_with_～ section"
+  },
+  {
+    "id": "C24__look_at_～.mp3",
+    "info": "C24__look_at_～ section"
+  },
+  {
+    "id": "C250__be_surprised_at_[by]_～.mp3",
+    "info": "C250__be_surprised_at_[by]_～ section"
+  },
+  {
+    "id": "C251__be_tired_of_～.mp3",
+    "info": "C251__be_tired_of_～ section"
+  },
+  {
+    "id": "C252__be_afraid_to_～.mp3",
+    "info": "C252__be_afraid_to_～ section"
+  },
+  {
+    "id": "C253__be_attracted_to_～.mp3",
+    "info": "C253__be_attracted_to_～ section"
+  },
+  {
+    "id": "C254__a_glass_of_～.mp3",
+    "info": "C254__a_glass_of_～ section"
+  },
+  {
+    "id": "C255__a_kind_of_～.mp3",
+    "info": "C255__a_kind_of_～ section"
+  },
+  {
+    "id": "C256__hundreds_of_～.mp3",
+    "info": "C256__hundreds_of_～ section"
+  },
+  {
+    "id": "C257__bound_for_～.mp3",
+    "info": "C257__bound_for_～ section"
+  },
+  {
+    "id": "C258__in_charge_of_～.mp3",
+    "info": "C258__in_charge_of_～ section"
+  },
+  {
+    "id": "C259__at_last.mp3",
+    "info": "C259__at_last section"
+  },
+  {
+    "id": "C25__look_for_～.mp3",
+    "info": "C25__look_for_～ section"
+  },
+  {
+    "id": "C260__at_once.mp3",
+    "info": "C260__at_once section"
+  },
+  {
+    "id": "C261__in_those_days.mp3",
+    "info": "C261__in_those_days section"
+  },
+  {
+    "id": "C262__once_upon_a_time.mp3",
+    "info": "C262__once_upon_a_time section"
+  },
+  {
+    "id": "C263__since_then.mp3",
+    "info": "C263__since_then section"
+  },
+  {
+    "id": "C264__so_far.mp3",
+    "info": "C264__so_far section"
+  },
+  {
+    "id": "C265__a_little_bit.mp3",
+    "info": "C265__a_little_bit section"
+  },
+  {
+    "id": "C266__～_as_well_as_....mp3",
+    "info": "C266__～_as_well_as_ section"
+  },
+  {
+    "id": "C267__by_mistake.mp3",
+    "info": "C267__by_mistake section"
+  },
+  {
+    "id": "C268__by_oneself.mp3",
+    "info": "C268__by_oneself section"
+  },
+  {
+    "id": "C269__one_by_one.mp3",
+    "info": "C269__one_by_one section"
+  },
+  {
+    "id": "C26__look_like_～.mp3",
+    "info": "C26__look_like_～ section"
+  },
+  {
+    "id": "C270__side_by_side.mp3",
+    "info": "C270__side_by_side section"
+  },
+  {
+    "id": "C271__little_by_little.mp3",
+    "info": "C271__little_by_little section"
+  },
+  {
+    "id": "C272__not_really.mp3",
+    "info": "C272__not_really section"
+  },
+  {
+    "id": "C273__for_fun.mp3",
+    "info": "C273__for_fun section"
+  },
+  {
+    "id": "C274__for_sure.mp3",
+    "info": "C274__for_sure section"
+  },
+  {
+    "id": "C275__in_common.mp3",
+    "info": "C275__in_common section"
+  },
+  {
+    "id": "C276__in_total.mp3",
+    "info": "C276__in_total section"
+  },
+  {
+    "id": "C277__(in)_this_way.mp3",
+    "info": "C277__(in)_this_way section"
+  },
+  {
+    "id": "C278__in_tears.mp3",
+    "info": "C278__in_tears section"
+  },
+  {
+    "id": "C279__on_fire.mp3",
+    "info": "C279__on_fire section"
+  },
+  {
+    "id": "C27__stay_with_～.mp3",
+    "info": "C27__stay_with_～ section"
+  },
+  {
+    "id": "C280__on_foot.mp3",
+    "info": "C280__on_foot section"
+  },
+  {
+    "id": "C281__on_the_Internet.mp3",
+    "info": "C281__on_the_Internet section"
+  },
+  {
+    "id": "C282__on_TV.mp3",
+    "info": "C282__on_TV section"
+  },
+  {
+    "id": "C283__due_to_～.mp3",
+    "info": "C283__due_to_～ section"
+  },
+  {
+    "id": "C284__enough_to_～.mp3",
+    "info": "C284__enough_to_～ section"
+  },
+  {
+    "id": "C285__even_if_[though]_～.mp3",
+    "info": "C285__even_if_[though]_～ section"
+  },
+  {
+    "id": "C286__ask_～_to_....mp3",
+    "info": "C286__ask_～_to_ section"
+  },
+  {
+    "id": "C287__forget_to_～.mp3",
+    "info": "C287__forget_to_～ section"
+  },
+  {
+    "id": "C288__in_order_to_～.mp3",
+    "info": "C288__in_order_to_～ section"
+  },
+  {
+    "id": "C289__would_like_to_～.mp3",
+    "info": "C289__would_like_to_～ section"
+  },
+  {
+    "id": "C28__talk_about_～.mp3",
+    "info": "C28__talk_about_～ section"
+  },
+  {
+    "id": "C290__way_to_～.mp3",
+    "info": "C290__way_to_～ section"
+  },
+  {
+    "id": "C291__what_to_～.mp3",
+    "info": "C291__what_to_～ section"
+  },
+  {
+    "id": "C292__try_～ing.mp3",
+    "info": "C292__try_～ing section"
+  },
+  {
+    "id": "C293__feel_like_～ing.mp3",
+    "info": "C293__feel_like_～ing section"
+  },
+  {
+    "id": "C294__not_～,_either.mp3",
+    "info": "C294__not_～,_either section"
+  },
+  {
+    "id": "C295__one_～,_the_other_....mp3",
+    "info": "C295__one_～,_the_other_ section"
+  },
+  {
+    "id": "C296__not_as_～_as_....mp3",
+    "info": "C296__not_as_～_as_ section"
+  },
+  {
+    "id": "C297__must_not_～.mp3",
+    "info": "C297__must_not_～ section"
+  },
+  {
+    "id": "C298__have_been_to_～.mp3",
+    "info": "C298__have_been_to_～ section"
+  },
+  {
+    "id": "C299__as_you_know.mp3",
+    "info": "C299__as_you_know section"
+  },
+  {
+    "id": "C29__learn_about_～.mp3",
+    "info": "C29__learn_about_～ section"
+  },
+  {
+    "id": "C2__go_to_school.mp3",
+    "info": "C2__go_to_school section"
+  },
+  {
+    "id": "C300__you_know.mp3",
+    "info": "C300__you_know section"
+  },
+  {
+    "id": "C301__clean_up.mp3",
+    "info": "C301__clean_up section"
+  },
+  {
+    "id": "C302__come_home.mp3",
+    "info": "C302__come_home section"
+  },
+  {
+    "id": "C303__come_out.mp3",
+    "info": "C303__come_out section"
+  },
+  {
+    "id": "C304__go_along.mp3",
+    "info": "C304__go_along section"
+  },
+  {
+    "id": "C305__go_on.mp3",
+    "info": "C305__go_on section"
+  },
+  {
+    "id": "C306__slow_down.mp3",
+    "info": "C306__slow_down section"
+  },
+  {
+    "id": "C307__count_down.mp3",
+    "info": "C307__count_down section"
+  },
+  {
+    "id": "C308__get_worse.mp3",
+    "info": "C308__get_worse section"
+  },
+  {
+    "id": "C309__hang_out.mp3",
+    "info": "C309__hang_out section"
+  },
+  {
+    "id": "C30__agree_with_～.mp3",
+    "info": "C30__agree_with_～ section"
+  },
+  {
+    "id": "C310__speak_out.mp3",
+    "info": "C310__speak_out section"
+  },
+  {
+    "id": "C311__cry_out.mp3",
+    "info": "C311__cry_out section"
+  },
+  {
+    "id": "C312__say_to_oneself.mp3",
+    "info": "C312__say_to_oneself section"
+  },
+  {
+    "id": "C313__enjoy_oneself.mp3",
+    "info": "C313__enjoy_oneself section"
+  },
+  {
+    "id": "C314__help_oneself_(to_～).mp3",
+    "info": "C314__help_oneself_(to_～) section"
+  },
+  {
+    "id": "C315__make_a_difference.mp3",
+    "info": "C315__make_a_difference section"
+  },
+  {
+    "id": "C316__make_a_mistake.mp3",
+    "info": "C316__make_a_mistake section"
+  },
+  {
+    "id": "C317__come_across_～.mp3",
+    "info": "C317__come_across_～ section"
+  },
+  {
+    "id": "C318__move_to_～.mp3",
+    "info": "C318__move_to_～ section"
+  },
+  {
+    "id": "C319__write_to_～.mp3",
+    "info": "C319__write_to_～ section"
+  },
+  {
+    "id": "C31__bring_～_back.mp3",
+    "info": "C31__bring_～_back section"
+  },
+  {
+    "id": "C320__work_for_～.mp3",
+    "info": "C320__work_for_～ section"
+  },
+  {
+    "id": "C321__pay_for_～.mp3",
+    "info": "C321__pay_for_～ section"
+  },
+  {
+    "id": "C322__search_for_～.mp3",
+    "info": "C322__search_for_～ section"
+  },
+  {
+    "id": "C323__wish_for_～.mp3",
+    "info": "C323__wish_for_～ section"
+  },
+  {
+    "id": "C324__burst_into_～.mp3",
+    "info": "C324__burst_into_～ section"
+  },
+  {
+    "id": "C325__believe_in_～.mp3",
+    "info": "C325__believe_in_～ section"
+  },
+  {
+    "id": "C326__bring_～_up.mp3",
+    "info": "C326__bring_～_up section"
+  },
+  {
+    "id": "C327__care_for_～.mp3",
+    "info": "C327__care_for_～ section"
+  },
+  {
+    "id": "C328__hear_from_～.mp3",
+    "info": "C328__hear_from_～ section"
+  },
+  {
+    "id": "C329__die_of_[from]_～.mp3",
+    "info": "C329__die_of_[from]_～ section"
+  },
+  {
+    "id": "C32__leave_～_behind.mp3",
+    "info": "C32__leave_～_behind section"
+  },
+  {
+    "id": "C330__cut_～_down.mp3",
+    "info": "C330__cut_～_down section"
+  },
+  {
+    "id": "C331__hand_～_in.mp3",
+    "info": "C331__hand_～_in section"
+  },
+  {
+    "id": "C332__hand_～_out.mp3",
+    "info": "C332__hand_～_out section"
+  },
+  {
+    "id": "C333__exchange_～_for_....mp3",
+    "info": "C333__exchange_～_for_ section"
+  },
+  {
+    "id": "C334__spend_～_on_....mp3",
+    "info": "C334__spend_～_on_ section"
+  },
+  {
+    "id": "C335__ask_～_a_favor.mp3",
+    "info": "C335__ask_～_a_favor section"
+  },
+  {
+    "id": "C336__put_～_off.mp3",
+    "info": "C336__put_～_off section"
+  },
+  {
+    "id": "C337__show_～_around.mp3",
+    "info": "C337__show_～_around section"
+  },
+  {
+    "id": "C338__throw_～_away.mp3",
+    "info": "C338__throw_～_away section"
+  },
+  {
+    "id": "C339__try_～_on.mp3",
+    "info": "C339__try_～_on section"
+  },
+  {
+    "id": "C33__pick_～_up.mp3",
+    "info": "C33__pick_～_up section"
+  },
+  {
+    "id": "C340__introduce_～_to_....mp3",
+    "info": "C340__introduce_～_to_ section"
+  },
+  {
+    "id": "C341__translate_～_into_....mp3",
+    "info": "C341__translate_～_into_ section"
+  },
+  {
+    "id": "C342__feel_[be]_free_to_～.mp3",
+    "info": "C342__feel_[be]_free_to_～ section"
+  },
+  {
+    "id": "C343__get_out_of_～.mp3",
+    "info": "C343__get_out_of_～ section"
+  },
+  {
+    "id": "C344__come_up_(to_～).mp3",
+    "info": "C344__come_up_(to_～) section"
+  },
+  {
+    "id": "C345__come_up_with_～.mp3",
+    "info": "C345__come_up_with_～ section"
+  },
+  {
+    "id": "C346__join_hands_with_～.mp3",
+    "info": "C346__join_hands_with_～ section"
+  },
+  {
+    "id": "C347__keep_away_from_～.mp3",
+    "info": "C347__keep_away_from_～ section"
+  },
+  {
+    "id": "C348__be_careful_with_～.mp3",
+    "info": "C348__be_careful_with_～ section"
+  },
+  {
+    "id": "C349__be_covered_with_～.mp3",
+    "info": "C349__be_covered_with_～ section"
+  },
+  {
+    "id": "C34__put_～_on.mp3",
+    "info": "C34__put_～_on section"
+  },
+  {
+    "id": "C350__be_filled_with_～.mp3",
+    "info": "C350__be_filled_with_～ section"
+  },
+  {
+    "id": "C351__be_familiar_with_～.mp3",
+    "info": "C351__be_familiar_with_～ section"
+  },
+  {
+    "id": "C352__be_kind_to_～.mp3",
+    "info": "C352__be_kind_to_～ section"
+  },
+  {
+    "id": "C353__be_amazed_at_～.mp3",
+    "info": "C353__be_amazed_at_～ section"
+  },
+  {
+    "id": "C354__be_sorry_for_～.mp3",
+    "info": "C354__be_sorry_for_～ section"
+  },
+  {
+    "id": "C355__be_made_(out)_of_～.mp3",
+    "info": "C355__be_made_(out)_of_～ section"
+  },
+  {
+    "id": "C356__be_made_from_～.mp3",
+    "info": "C356__be_made_from_～ section"
+  },
+  {
+    "id": "C357__be_satisfied_with_～.mp3",
+    "info": "C357__be_satisfied_with_～ section"
+  },
+  {
+    "id": "C358__be_wrong_with_～.mp3",
+    "info": "C358__be_wrong_with_～ section"
+  },
+  {
+    "id": "C359__be_in_a_hurry.mp3",
+    "info": "C359__be_in_a_hurry section"
+  },
+  {
+    "id": "C35__take_～_off.mp3",
+    "info": "C35__take_～_off section"
+  },
+  {
+    "id": "C360__be_about_to_～.mp3",
+    "info": "C360__be_about_to_～ section"
+  },
+  {
+    "id": "C361__be_willing_to_～.mp3",
+    "info": "C361__be_willing_to_～ section"
+  },
+  {
+    "id": "C362__a_couple_of_～.mp3",
+    "info": "C362__a_couple_of_～ section"
+  },
+  {
+    "id": "C363__a_pair_of_～.mp3",
+    "info": "C363__a_pair_of_～ section"
+  },
+  {
+    "id": "C364__a_～_amount_of_....mp3",
+    "info": "C364__a_～_amount_of_ section"
+  },
+  {
+    "id": "C365__a_great_[large]_number_of_～.mp3",
+    "info": "C365__a_great_[large]_number_of_～ section"
+  },
+  {
+    "id": "C366__millions_of_～.mp3",
+    "info": "C366__millions_of_～ section"
+  },
+  {
+    "id": "C367__on_board_(～).mp3",
+    "info": "C367__on_board_(～) section"
+  },
+  {
+    "id": "C368__on_business.mp3",
+    "info": "C368__on_business section"
+  },
+  {
+    "id": "C369__on_the_phone.mp3",
+    "info": "C369__on_the_phone section"
+  },
+  {
+    "id": "C36__take_～_out.mp3",
+    "info": "C36__take_～_out section"
+  },
+  {
+    "id": "C370__on_weekends.mp3",
+    "info": "C370__on_weekends section"
+  },
+  {
+    "id": "C371__the_day_after_tomorrow.mp3",
+    "info": "C371__the_day_after_tomorrow section"
+  },
+  {
+    "id": "C372__the_day_before_yesterday.mp3",
+    "info": "C372__the_day_before_yesterday section"
+  },
+  {
+    "id": "C373__once_more.mp3",
+    "info": "C373__once_more section"
+  },
+  {
+    "id": "C374__after_a_while.mp3",
+    "info": "C374__after_a_while section"
+  },
+  {
+    "id": "C375__in_time.mp3",
+    "info": "C375__in_time section"
+  },
+  {
+    "id": "C376__day_by_day.mp3",
+    "info": "C376__day_by_day section"
+  },
+  {
+    "id": "C377__one_after_another.mp3",
+    "info": "C377__one_after_another section"
+  },
+  {
+    "id": "C378__than_ever_before.mp3",
+    "info": "C378__than_ever_before section"
+  },
+  {
+    "id": "C379__at_the_age_of_～.mp3",
+    "info": "C379__at_the_age_of_～ section"
+  },
+  {
+    "id": "C37__take_care_of_～.mp3",
+    "info": "C37__take_care_of_～ section"
+  },
+  {
+    "id": "C380__at_the_end_of_～.mp3",
+    "info": "C380__at_the_end_of_～ section"
+  },
+  {
+    "id": "C381__right_now.mp3",
+    "info": "C381__right_now section"
+  },
+  {
+    "id": "C382__as_soon_as_～.mp3",
+    "info": "C382__as_soon_as_～ section"
+  },
+  {
+    "id": "C383__according_to_～.mp3",
+    "info": "C383__according_to_～ section"
+  },
+  {
+    "id": "C384__as_for_～.mp3",
+    "info": "C384__as_for_～ section"
+  },
+  {
+    "id": "C385__speaking_of_～.mp3",
+    "info": "C385__speaking_of_～ section"
+  },
+  {
+    "id": "C386__in_case_of_～.mp3",
+    "info": "C386__in_case_of_～ section"
+  },
+  {
+    "id": "C387__above_all.mp3",
+    "info": "C387__above_all section"
+  },
+  {
+    "id": "C388__at_least.mp3",
+    "info": "C388__at_least section"
+  },
+  {
+    "id": "C389__the_same_as_～.mp3",
+    "info": "C389__the_same_as_～ section"
+  },
+  {
+    "id": "C38__look_forward_to_～.mp3",
+    "info": "C38__look_forward_to_～ section"
+  },
+  {
+    "id": "C390__up_to_～.mp3",
+    "info": "C390__up_to_～ section"
+  },
+  {
+    "id": "C391__in_addition.mp3",
+    "info": "C391__in_addition section"
+  },
+  {
+    "id": "C392__in_my_opinion.mp3",
+    "info": "C392__in_my_opinion section"
+  },
+  {
+    "id": "C393__no_more.mp3",
+    "info": "C393__no_more section"
+  },
+  {
+    "id": "C394__no_one_～.mp3",
+    "info": "C394__no_one_～ section"
+  },
+  {
+    "id": "C395__not_always.mp3",
+    "info": "C395__not_always section"
+  },
+  {
+    "id": "C396__without_～ing.mp3",
+    "info": "C396__without_～ing section"
+  },
+  {
+    "id": "C397__in_danger.mp3",
+    "info": "C397__in_danger section"
+  },
+  {
+    "id": "C398__begin_to_～_[～ing].mp3",
+    "info": "C398__begin_to_～_[～ing] section"
+  },
+  {
+    "id": "C399__enough_..._to_～.mp3",
+    "info": "C399__enough_ section"
+  },
+  {
+    "id": "C39__be_from_～.mp3",
+    "info": "C39__be_from_～ section"
+  },
+  {
+    "id": "C3__go_to_bed.mp3",
+    "info": "C3__go_to_bed section"
+  },
+  {
+    "id": "C400__it_is_time_to_～.mp3",
+    "info": "C400__it_is_time_to_～ section"
+  },
+  {
+    "id": "C401__pass_by.mp3",
+    "info": "C401__pass_by section"
+  },
+  {
+    "id": "C402__leave_home.mp3",
+    "info": "C402__leave_home section"
+  },
+  {
+    "id": "C403__study_abroad.mp3",
+    "info": "C403__study_abroad section"
+  },
+  {
+    "id": "C404__drop_out_(of_～).mp3",
+    "info": "C404__drop_out_(of_～) section"
+  },
+  {
+    "id": "C405__turn_around.mp3",
+    "info": "C405__turn_around section"
+  },
+  {
+    "id": "C406__turn_out.mp3",
+    "info": "C406__turn_out section"
+  },
+  {
+    "id": "C407__take_place.mp3",
+    "info": "C407__take_place section"
+  },
+  {
+    "id": "C408__lie_down.mp3",
+    "info": "C408__lie_down section"
+  },
+  {
+    "id": "C409__look_up_(at_～).mp3",
+    "info": "C409__look_up_(at_～) section"
+  },
+  {
+    "id": "C40__be_good_at_～.mp3",
+    "info": "C40__be_good_at_～ section"
+  },
+  {
+    "id": "C410__work_out.mp3",
+    "info": "C410__work_out section"
+  },
+  {
+    "id": "C411__have_a_break.mp3",
+    "info": "C411__have_a_break section"
+  },
+  {
+    "id": "C412__make_oneself_at_home.mp3",
+    "info": "C412__make_oneself_at_home section"
+  },
+  {
+    "id": "C413__break_down.mp3",
+    "info": "C413__break_down section"
+  },
+  {
+    "id": "C414__break_out.mp3",
+    "info": "C414__break_out section"
+  },
+  {
+    "id": "C415__pass_away.mp3",
+    "info": "C415__pass_away section"
+  },
+  {
+    "id": "C416__die_out.mp3",
+    "info": "C416__die_out section"
+  },
+  {
+    "id": "C417__run_short.mp3",
+    "info": "C417__run_short section"
+  },
+  {
+    "id": "C418__dress_up.mp3",
+    "info": "C418__dress_up section"
+  },
+  {
+    "id": "C419__get_along_(with_～).mp3",
+    "info": "C419__get_along_(with_～) section"
+  },
+  {
+    "id": "C41__be_afraid_of_～.mp3",
+    "info": "C41__be_afraid_of_～ section"
+  },
+  {
+    "id": "C420__go_through_～.mp3",
+    "info": "C420__go_through_～ section"
+  },
+  {
+    "id": "C421__move_on.mp3",
+    "info": "C421__move_on section"
+  },
+  {
+    "id": "C422__leave_a_message.mp3",
+    "info": "C422__leave_a_message section"
+  },
+  {
+    "id": "C423__introduce_oneself.mp3",
+    "info": "C423__introduce_oneself section"
+  },
+  {
+    "id": "C424__keep_one's_promise_[word].mp3",
+    "info": "C424__keep_one's_promise_[word] section"
+  },
+  {
+    "id": "C425__make_up_one's_mind.mp3",
+    "info": "C425__make_up_one's_mind section"
+  },
+  {
+    "id": "C426__call_on_～.mp3",
+    "info": "C426__call_on_～ section"
+  },
+  {
+    "id": "C427__go_for_～.mp3",
+    "info": "C427__go_for_～ section"
+  },
+  {
+    "id": "C428__get_over_～.mp3",
+    "info": "C428__get_over_～ section"
+  },
+  {
+    "id": "C429__lead_to_～.mp3",
+    "info": "C429__lead_to_～ section"
+  },
+  {
+    "id": "C42__be_famous_for_～.mp3",
+    "info": "C42__be_famous_for_～ section"
+  },
+  {
+    "id": "C430__result_in_～.mp3",
+    "info": "C430__result_in_～ section"
+  },
+  {
+    "id": "C431__disagree_with_～.mp3",
+    "info": "C431__disagree_with_～ section"
+  },
+  {
+    "id": "C432__work_on_～.mp3",
+    "info": "C432__work_on_～ section"
+  },
+  {
+    "id": "C433__worry_about_～.mp3",
+    "info": "C433__worry_about_～ section"
+  },
+  {
+    "id": "C434__write_～_down.mp3",
+    "info": "C434__write_～_down section"
+  },
+  {
+    "id": "C435__carry_～_out.mp3",
+    "info": "C435__carry_～_out section"
+  },
+  {
+    "id": "C436__pass_～_down.mp3",
+    "info": "C436__pass_～_down section"
+  },
+  {
+    "id": "C437__turn_～_up.mp3",
+    "info": "C437__turn_～_up section"
+  },
+  {
+    "id": "C438__replace_～_with_....mp3",
+    "info": "C438__replace_～_with_ section"
+  },
+  {
+    "id": "C439__encourage_～_to_....mp3",
+    "info": "C439__encourage_～_to_ section"
+  },
+  {
+    "id": "C43__be_full_of_～.mp3",
+    "info": "C43__be_full_of_～ section"
+  },
+  {
+    "id": "C440__catch_sight_of_～.mp3",
+    "info": "C440__catch_sight_of_～ section"
+  },
+  {
+    "id": "C441__catch_up_with_～.mp3",
+    "info": "C441__catch_up_with_～ section"
+  },
+  {
+    "id": "C442__keep_up_with_～.mp3",
+    "info": "C442__keep_up_with_～ section"
+  },
+  {
+    "id": "C443__make_friends_with_～.mp3",
+    "info": "C443__make_friends_with_～ section"
+  },
+  {
+    "id": "C444__make_up_with_～.mp3",
+    "info": "C444__make_up_with_～ section"
+  },
+  {
+    "id": "C445__make_fun_of_～.mp3",
+    "info": "C445__make_fun_of_～ section"
+  },
+  {
+    "id": "C446__play_a_trick_on_～.mp3",
+    "info": "C446__play_a_trick_on_～ section"
+  },
+  {
+    "id": "C447__pay_attention_to_～.mp3",
+    "info": "C447__pay_attention_to_～ section"
+  },
+  {
+    "id": "C448__say_hello_to_～.mp3",
+    "info": "C448__say_hello_to_～ section"
+  },
+  {
+    "id": "C449__shake_hands_with_～.mp3",
+    "info": "C449__shake_hands_with_～ section"
+  },
+  {
+    "id": "C44__be_interested_in_～.mp3",
+    "info": "C44__be_interested_in_～ section"
+  },
+  {
+    "id": "C450__prevent_[keep]_..._from_～ing.mp3",
+    "info": "C450__prevent_[keep]_ section"
+  },
+  {
+    "id": "C451__see_～_off.mp3",
+    "info": "C451__see_～_off section"
+  },
+  {
+    "id": "C452__be_absent_from_～.mp3",
+    "info": "C452__be_absent_from_～ section"
+  },
+  {
+    "id": "C453__be_located_in_～.mp3",
+    "info": "C453__be_located_in_～ section"
+  },
+  {
+    "id": "C454__be_based_on_～.mp3",
+    "info": "C454__be_based_on_～ section"
+  },
+  {
+    "id": "C455__be_impressed_with_[by]_～.mp3",
+    "info": "C455__be_impressed_with_[by]_～ section"
+  },
+  {
+    "id": "C456__be_moved_by_～.mp3",
+    "info": "C456__be_moved_by_～ section"
+  },
+  {
+    "id": "C457__be_out_of_order.mp3",
+    "info": "C457__be_out_of_order section"
+  },
+  {
+    "id": "C458__be_worth_～ing.mp3",
+    "info": "C458__be_worth_～ing section"
+  },
+  {
+    "id": "C459__plenty_of_～.mp3",
+    "info": "C459__plenty_of_～ section"
+  },
+  {
+    "id": "C45__be_able_to_～.mp3",
+    "info": "C45__be_able_to_～ section"
+  },
+  {
+    "id": "C460__a_bit.mp3",
+    "info": "C460__a_bit section"
+  },
+  {
+    "id": "C461__less_than_～.mp3",
+    "info": "C461__less_than_～ section"
+  },
+  {
+    "id": "C462__on_time.mp3",
+    "info": "C462__on_time section"
+  },
+  {
+    "id": "C463__at_a_time.mp3",
+    "info": "C463__at_a_time section"
+  },
+  {
+    "id": "C464__over_and_over_again.mp3",
+    "info": "C464__over_and_over_again section"
+  },
+  {
+    "id": "C465__before_long.mp3",
+    "info": "C465__before_long section"
+  },
+  {
+    "id": "C466__ever_since.mp3",
+    "info": "C466__ever_since section"
+  },
+  {
+    "id": "C467__not_yet.mp3",
+    "info": "C467__not_yet section"
+  },
+  {
+    "id": "C468__all_the_way.mp3",
+    "info": "C468__all_the_way section"
+  },
+  {
+    "id": "C469__long_ago.mp3",
+    "info": "C469__long_ago section"
+  },
+  {
+    "id": "C46__be_in_trouble.mp3",
+    "info": "C46__be_in_trouble section"
+  },
+  {
+    "id": "C470__for_now.mp3",
+    "info": "C470__for_now section"
+  },
+  {
+    "id": "C471__as_usual.mp3",
+    "info": "C471__as_usual section"
+  },
+  {
+    "id": "C472__for_a_while.mp3",
+    "info": "C472__for_a_while section"
+  },
+  {
+    "id": "C473__from_now_on.mp3",
+    "info": "C473__from_now_on section"
+  },
+  {
+    "id": "C474__in_other_words.mp3",
+    "info": "C474__in_other_words section"
+  },
+  {
+    "id": "C475__in_particular.mp3",
+    "info": "C475__in_particular section"
+  },
+  {
+    "id": "C476__in_short.mp3",
+    "info": "C476__in_short section"
+  },
+  {
+    "id": "C477__in_the_end.mp3",
+    "info": "C477__in_the_end section"
+  },
+  {
+    "id": "C478__in_spite_of_～.mp3",
+    "info": "C478__in_spite_of_～ section"
+  },
+  {
+    "id": "C479__except_for_～.mp3",
+    "info": "C479__except_for_～ section"
+  },
+  {
+    "id": "C47__a_few_(～).mp3",
+    "info": "C47__a_few_(～) section"
+  },
+  {
+    "id": "C480__for_one_thing.mp3",
+    "info": "C480__for_one_thing section"
+  },
+  {
+    "id": "C481__far_from_～.mp3",
+    "info": "C481__far_from_～ section"
+  },
+  {
+    "id": "C482__anything_but_～.mp3",
+    "info": "C482__anything_but_～ section"
+  },
+  {
+    "id": "C483__no_longer_～.mp3",
+    "info": "C483__no_longer_～ section"
+  },
+  {
+    "id": "C484__not_～_any_more.mp3",
+    "info": "C484__not_～_any_more section"
+  },
+  {
+    "id": "C485__～_than_before.mp3",
+    "info": "C485__～_than_before section"
+  },
+  {
+    "id": "C486__rather_than_～.mp3",
+    "info": "C486__rather_than_～ section"
+  },
+  {
+    "id": "C487__next_door.mp3",
+    "info": "C487__next_door section"
+  },
+  {
+    "id": "C488__in_bed.mp3",
+    "info": "C488__in_bed section"
+  },
+  {
+    "id": "C489__in_the_open_air.mp3",
+    "info": "C489__in_the_open_air section"
+  },
+  {
+    "id": "C48__a_little_(～).mp3",
+    "info": "C48__a_little_(～) section"
+  },
+  {
+    "id": "C490__just_around_the_corner.mp3",
+    "info": "C490__just_around_the_corner section"
+  },
+  {
+    "id": "C491__for_free.mp3",
+    "info": "C491__for_free section"
+  },
+  {
+    "id": "C492__for_sale.mp3",
+    "info": "C492__for_sale section"
+  },
+  {
+    "id": "C493__with_a_smile.mp3",
+    "info": "C493__with_a_smile section"
+  },
+  {
+    "id": "C494__at_war.mp3",
+    "info": "C494__at_war section"
+  },
+  {
+    "id": "C495__used_to_～.mp3",
+    "info": "C495__used_to_～ section"
+  },
+  {
+    "id": "C496__get_[be]_used_to_～ing.mp3",
+    "info": "C496__get_[be]_used_to_～ing section"
+  },
+  {
+    "id": "C497__would_like_～.mp3",
+    "info": "C497__would_like_～ section"
+  },
+  {
+    "id": "C498__might_as_well_～.mp3",
+    "info": "C498__might_as_well_～ section"
+  },
+  {
+    "id": "C499__as_if_～.mp3",
+    "info": "C499__as_if_～ section"
+  },
+  {
+    "id": "C49__a_lot_of_～.mp3",
+    "info": "C49__a_lot_of_～ section"
+  },
+  {
+    "id": "C4__go_out.mp3",
+    "info": "C4__go_out section"
+  },
+  {
+    "id": "C500__to_tell_the_truth.mp3",
+    "info": "C500__to_tell_the_truth section"
+  },
+  {
+    "id": "C50__a_cup_of_～.mp3",
+    "info": "C50__a_cup_of_～ section"
+  },
+  {
+    "id": "C51__a_piece_of_～.mp3",
+    "info": "C51__a_piece_of_～ section"
+  },
+  {
+    "id": "C52__one_of_～.mp3",
+    "info": "C52__one_of_～ section"
+  },
+  {
+    "id": "C53__～_such_as_....mp3",
+    "info": "C53__～_such_as_ section"
+  },
+  {
+    "id": "C54__a_lot.mp3",
+    "info": "C54__a_lot section"
+  },
+  {
+    "id": "C55__every_day.mp3",
+    "info": "C55__every_day section"
+  },
+  {
+    "id": "C56__all_day.mp3",
+    "info": "C56__all_day section"
+  },
+  {
+    "id": "C57__this_morning.mp3",
+    "info": "C57__this_morning section"
+  },
+  {
+    "id": "C58__at_night.mp3",
+    "info": "C58__at_night section"
+  },
+  {
+    "id": "C59__after_school.mp3",
+    "info": "C59__after_school section"
+  },
+  {
+    "id": "C5__come_in.mp3",
+    "info": "C5__come_in section"
+  },
+  {
+    "id": "C60__look_around.mp3",
+    "info": "C60__look_around section"
+  },
+  {
+    "id": "C61__all_year_round.mp3",
+    "info": "C61__all_year_round section"
+  },
+  {
+    "id": "C62__all_the_time.mp3",
+    "info": "C62__all_the_time section"
+  },
+  {
+    "id": "C63__this_time.mp3",
+    "info": "C63__this_time section"
+  },
+  {
+    "id": "C64__these_days.mp3",
+    "info": "C64__these_days section"
+  },
+  {
+    "id": "C65__one_day.mp3",
+    "info": "C65__one_day section"
+  },
+  {
+    "id": "C66__in_the_future.mp3",
+    "info": "C66__in_the_future section"
+  },
+  {
+    "id": "C67__all_over_the_world.mp3",
+    "info": "C67__all_over_the_world section"
+  },
+  {
+    "id": "C68__around_the_world.mp3",
+    "info": "C68__around_the_world section"
+  },
+  {
+    "id": "C69__at_home.mp3",
+    "info": "C69__at_home section"
+  },
+  {
+    "id": "C6__come_back_(to_～).mp3",
+    "info": "C6__come_back_(to_～) section"
+  },
+  {
+    "id": "C70__at_school.mp3",
+    "info": "C70__at_school section"
+  },
+  {
+    "id": "C71__over_there.mp3",
+    "info": "C71__over_there section"
+  },
+  {
+    "id": "C72__because_of_～.mp3",
+    "info": "C72__because_of_～ section"
+  },
+  {
+    "id": "C73__thanks_to_～.mp3",
+    "info": "C73__thanks_to_～ section"
+  },
+  {
+    "id": "C74__for_example.mp3",
+    "info": "C74__for_example section"
+  },
+  {
+    "id": "C75__for_the_first_time.mp3",
+    "info": "C75__for_the_first_time section"
+  },
+  {
+    "id": "C76__in_fact.mp3",
+    "info": "C76__in_fact section"
+  },
+  {
+    "id": "C77__at_first.mp3",
+    "info": "C77__at_first section"
+  },
+  {
+    "id": "C78__after_all.mp3",
+    "info": "C78__after_all section"
+  },
+  {
+    "id": "C79__of_course.mp3",
+    "info": "C79__of_course section"
+  },
+  {
+    "id": "C7__come_and_go.mp3",
+    "info": "C7__come_and_go section"
+  },
+  {
+    "id": "C80__each_other.mp3",
+    "info": "C80__each_other section"
+  },
+  {
+    "id": "C81__right_away.mp3",
+    "info": "C81__right_away section"
+  },
+  {
+    "id": "C82__on_the_other_hand.mp3",
+    "info": "C82__on_the_other_hand section"
+  },
+  {
+    "id": "C83__more_than_～.mp3",
+    "info": "C83__more_than_～ section"
+  },
+  {
+    "id": "C84__not_～_at_all.mp3",
+    "info": "C84__not_～_at_all section"
+  },
+  {
+    "id": "C85__very_much.mp3",
+    "info": "C85__very_much section"
+  },
+  {
+    "id": "C86__～_year(s)_old.mp3",
+    "info": "C86__～_year(s)_old section"
+  },
+  {
+    "id": "C87__in_front_of_～.mp3",
+    "info": "C87__in_front_of_～ section"
+  },
+  {
+    "id": "C88__next_to_～.mp3",
+    "info": "C88__next_to_～ section"
+  },
+  {
+    "id": "C89__out_of_～.mp3",
+    "info": "C89__out_of_～ section"
+  },
+  {
+    "id": "C8__go_up.mp3",
+    "info": "C8__go_up section"
+  },
+  {
+    "id": "C90__try_to_～.mp3",
+    "info": "C90__try_to_～ section"
+  },
+  {
+    "id": "C91__like_～ing_[to_～].mp3",
+    "info": "C91__like_～ing_[to_～] section"
+  },
+  {
+    "id": "C92__go_～ing.mp3",
+    "info": "C92__go_～ing section"
+  },
+  {
+    "id": "C93__between_～_and_....mp3",
+    "info": "C93__between_～_and_ section"
+  },
+  {
+    "id": "C94__both_～_and_....mp3",
+    "info": "C94__both_～_and_ section"
+  },
+  {
+    "id": "C95__from_～_to_....mp3",
+    "info": "C95__from_～_to_ section"
+  },
+  {
+    "id": "C96__not_only_～,_but_(also)_....mp3",
+    "info": "C96__not_only_～,_but_(also)_ section"
+  },
+  {
+    "id": "C97__have_to_～.mp3",
+    "info": "C97__have_to_～ section"
+  },
+  {
+    "id": "C98__don't_have_to_～.mp3",
+    "info": "C98__don't_have_to_～ section"
+  },
+  {
+    "id": "C99__all_right.mp3",
+    "info": "C99__all_right section"
+  },
+  {
+    "id": "C9__do_one's_best.mp3",
+    "info": "C9__do_one's_best section"
+  },
+  {
+    "id": "P.100__384-395.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.102__396-400.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.104__C1-C12.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.106__C13-C23.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.108__C24-C35.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.110__C36-C46.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.112__C47-C58.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.114__C59-C71.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.116__C72-C83.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.118__C84-C95.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.11__1-7_家の中.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.11__15-20_家族.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.11__8-14_衣類.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.120__C96-C100.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.122__1-27_代名詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.122__28-33_be動詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.123__34-70_数字.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.124__71-73_冠詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.128__401-412.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.12__21-31_日用品.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.12__32-58_数字.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.130__413-425.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.132__426-437.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.134__438-449.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.136__450-461.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.138__462-473.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.13__59-69_体.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.13__70-75_楽器.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.13__76-85_色.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.140__474-787.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.142__788-498.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.144__499-511.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.146__512-524.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.148__525-536.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.14__86-95_果物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.14__96-100_野菜.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.150__537-548.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.152__549-561.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.154__562-572.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.156__573-585.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.158__586-597.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.15__101-118_食べ物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.15__119-124_飲み物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.15__125-129_学校.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.160__598-611.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.162__612-621.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.164__622-632.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.166__633-643.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.168__644-657.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.16__130-140_教科.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.16__141-149_文房具.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.16__150-158_乗り物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.170__658-670.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.172__671-684.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.174__685-697.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.176__698-710.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.178__711-724.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.17__159-168_行事・余暇.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.17__169-188_町の施設.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.180__725-739.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.182__740-752.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.184__753-766.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.186__767-780.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.188__781-791.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.18__189-204_職業.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.18__205-213_スポーツ.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.190__792-800.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.192__C101-C113.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.194__C114-C126.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.196__C127-C138.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.198__C139-C151.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.19__214-229_季節・月.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.200__C152-C164.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.202__C165-C177.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.204__C178-C190.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.206__C191-C200.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.208__1-10_場所を表す前置詞1.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.209__11-17_移動・方向を表す前置詞1.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.20__230-236_曜日.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.20__237-243_自然.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.20__244-247_天気.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.210__18-23_場所を表す前置詞2.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.210__24-27_移動・方向を表す前置詞2.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.211__28-40_時を表す前置詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.214__801-811.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.216__812-824.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.218__825-837.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.21__248-271_生き物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.220__838-850.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.222__851-864.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.224__865-877.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.226__878-891.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.228__892-903.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.22__272-288_国.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.230__904-915.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.232__916-928.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.234__929-940.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.236__941-953.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.238__954-966.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.23__289-318_動作.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.240__967-979.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.242__980-991.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.244__992-1003.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.246__1004-1017.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.248__1018-1031.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.24__319-326_気分.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.24__327-350_様子・状態.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.250__1032-1042.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.252__1043-1054.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.254__1055-1067.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.256__1068-1081.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.258__1082-1094.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.260__1095-1108.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.262__1109-1122.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.264__1123-1138.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.266__1139-1151.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.268__1152-1166.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.26__1-12.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.270__1167-1180.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.272__1181-1193.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.274__1194-1200.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.276__C201-C213.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.278__C214-C225.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.280__C226-C238.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.282__C239-C251.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.284__C252-C265.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.286__C266-C277.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.288__C278-C289.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.28__13-21.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.290__C290-C300.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.292__文法に関する用法.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.294__1-13_接続詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.295__14-18_手段・方法を表す前置詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.296__19-27_その他の前置詞.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.297__28-74_飲食物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.298__75-95_スポーツ.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.300__1201-1214.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.302__1215-1228.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.304__1229-1241.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.306__1242-1254.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.308__1255-1266.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.30__22-29.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.310__1267-1279.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.312__1280-1293.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.314__1294-1307.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.316__1308-1320.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.318__1321-1334.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.320__1335-1347.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.322__1348-1360.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.324__1361-1374.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.326__1375-1388.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.328__1389-1402.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.32__30-37.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.330__1403-1417.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.332__1418-1431.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.334__1432-1445.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.336__1446-1459.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.338__1460-1473.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.340__1474-1485.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.342__1486-1502.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.344__1503-1517.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.346__1518-1532.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.348__1533-1547.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.34__38-46.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.350__1548-1562.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.352__1563-1577.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.354__1578-1591.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.356__1592-1600.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.358__C301-C315.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.360__C316-C328.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.362__C329-C341.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.364__C342-C355.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.366__C356-C368.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.368__C369-C381.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.36__47-55.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.370__C382-C396.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.372__C397-C400.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.374__1-24,_49-54_国名・地域名.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.374__25-48,_55-60_国名・地域名（形容詞）.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.375__61-69_その他の国名・地域名.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.375__70-82_都市名.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.376__106-160_職業.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.376__83-105_生き物.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.378__1-4_感謝の気持ちとその応答.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.378__12-15_問いかけ・声かけ.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.378__5-8_出会い・歓迎.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.378__9-11_別れ.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.379__16-20_意見や感想を求める.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.379__21-26_依頼する.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.379__27-29_許可を求める.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.379__30-35_様子をたずねる.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.380__36-47_いろいろな質問.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.382__1601-1614.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.384__1615-1627.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.386__1628-1640.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.388__1641-1653.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.38__56-63.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.390__1654-1667.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.392__1668-1680.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.394__1681-1691.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.396__1692-1703.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.398__1704-1717.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.400__1718-1732.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.402__1733-1747.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.404__1748-1762.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.406__1763-1776.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.408__1777-1790.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.40__64-70.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.410__1791-1803.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.412__1804-1817.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.414__1818-1831.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.416__1832-1843.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.418__1844-1856.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.420__1857-1869.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.422__1870-1883.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.424__1884-1898.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.426__1899-1913.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.428__1914-1928.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.42__71-78.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.430__1929-1942.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.432__1943-1956.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.434__1957-1971.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.436__1972-1985.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.438__1986-2000.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.440__2001-2015.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.442__2016-2028.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.444__2029-2042.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.446__2043-2057.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.448__2058-2072.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.44__79-86.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.450__2073-2086.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.452__2087-2100.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.454__C401-C414.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.456__C415-C428.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.458__C429-C442.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.460__C443-C456.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.462__C457-C470.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.464__C471-C483.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.466__C484-C497.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.468__C498-C500.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.46__87-95.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.470__1-8_同意を示す.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.470__12-17_相手の話を受けての応答・返答.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.470__9-11_了承する・求めに応じる.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.471__17-23_意見・考えを言う.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.471__24-27_残念な気持ちなどを述べる.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.471__28-35_勧める・提案する.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.472__36-39_誘う.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.472__40-42_申し出る.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.472__43-57_その他.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.48__96-105.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.50__106-112.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.52__113-122.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.54__123-134.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.56__135-144.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.58__145-156.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.60__157-167.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.62__168-177.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.64__178-188.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.66__189-197.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.68__198-208.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.70__209-219.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.72__220-228.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.74__229-240.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.76__241-252.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.78__253-264.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.80__265-275.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.82__276-286.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.84__287-299.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.86__300-312.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.88__313-324.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.8__1短母音.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.8__2長母音.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.8__3二重母音.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.90__325-334.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.92__335-346.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.94__347-357.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.96__358-370.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.98__371-383.mp3",
+    "info": "P section"
+  },
+  {
+    "id": "P.9__4子音.mp3",
+    "info": "P section"
+  }
+]
